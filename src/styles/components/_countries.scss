@@ -20,13 +20,14 @@
 	.cancel {
 		margin: 20px auto 30px;
 		width: 100%;
+		color: white;
 
 		h5 {
-			border: 1px $color-3 solid;
+			border: 1px $color-2 solid;
 			text-align: center;
 			width: 180px;
 			margin: 0 auto;
-			border-radius: 10px;
+			border-radius: 20px;
 			transition: 0.3s;
 			cursor: pointer;
 

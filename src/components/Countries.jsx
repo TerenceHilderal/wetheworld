@@ -18,6 +18,7 @@ const Countries = () => {
 				)
 				.then(({ data }) => {
 					setData(data);
+					console.log(data);
 					setFetchOnce(false);
 				})
 				.catch((err) => console.log(err));

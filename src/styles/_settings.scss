@@ -17,7 +17,9 @@ body {
 	max-width: 1296px;
 	font-family: $font-1;
 	color: $color-3;
-	background-color: $color-2;
+	background: #003973;
+	background: -webkit-linear-gradient(to right, #003973, #e5e5be);
+	background: linear-gradient(to right, #003973, #e5e5be);
 }
 li {
 	list-style-type: none;
