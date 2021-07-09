@@ -8,3 +8,15 @@ On this project you can:
 
 - filter countries by continent
 - increase or decrease the number of countries
+
+Coming soon :
+
+You will be able to share your exeperiences on different countries
+Responsive on mobile
+
+---
+
+To run the project :
+
+- git clone
+- npm run start
