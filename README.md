@@ -19,4 +19,4 @@ Responsive on mobile
 To run the project :
 
 - git clone
-- npm run start
+- run npm start
