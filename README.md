@@ -20,3 +20,5 @@ To run the project :
 
 - git clone
 - run npm start
+
+To run backend : 'json-server --w src/assets/db.json --port 3003'
