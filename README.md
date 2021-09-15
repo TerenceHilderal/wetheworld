@@ -26,6 +26,7 @@ Responsive on mobile
 To run the project :
 
 - git clone
+- npm install
 - run npm start
 
 To run backend : 'json-server --w src/assets/db.json --port 3003'
