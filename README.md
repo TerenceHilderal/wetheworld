@@ -3,6 +3,7 @@ Hi ,
 Here is my little React project :
 
 ![Capture d’écran 2021-09-09 à 12 51 15](https://user-images.githubusercontent.com/56540121/132673171-d9c4b91c-7d82-43f6-8a0a-edd15d7dac08.png)
+![Capture d’écran 2021-09-15 à 16 08 21](https://user-images.githubusercontent.com/56540121/133448900-7a009f5d-c721-4bd0-ae54-cf9d552770ab.png)
 
 It references all the countries of the world,their capital city, their flag, their currency and the population.
 
