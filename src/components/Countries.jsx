@@ -14,7 +14,6 @@ const Countries = () => {
 				'https://restcountries.com/v2/all?fields=name,capital,currencies,population,region,flag',
 			)
 			.then((res) => {
-				console.log(res);
 				setData(res.data);
 			});
 	}, []);
