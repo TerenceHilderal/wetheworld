@@ -11,8 +11,8 @@ const Card = ({ country }) => {
 					<li>{country.capital}</li>
 					<li>Pop : {numberFormat(country.population)}</li>
 					<li>
-						Currency: {country.currencies[0].name}{' '}
-						{country.currencies[0].symbol}{' '}
+						Currency: {country.currencies[0]?.name}{' '}
+						{country.currencies[0]?.symbol}{' '}
 					</li>
 				</ul>
 			</div>
